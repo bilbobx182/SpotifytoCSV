@@ -2,4 +2,5 @@ VERSION HISTORY
 COMMIT 01: Initial commit of setting up repo.
 COMMIT 02: setting up repo.
 COMMIT 03: setting up repo.
-COMMIT 04: Adding python code.
+COMMIT 04: Added version history file.
+COMMIT 05: Added python code.
