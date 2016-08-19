@@ -4,3 +4,4 @@ COMMIT 02: setting up repo.
 COMMIT 03: setting up repo.
 COMMIT 04: Added version history file.
 COMMIT 05: Added python code.
+COMMIT 06: Fixed Python code and made the program far more functional and display more data.
